@@ -1,2 +1,0 @@
-# Epitech
-projets Epitech
